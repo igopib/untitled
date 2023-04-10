@@ -8,7 +8,7 @@ import Style from "./Main.module.css"
 const Main: FC = () => {
   return (
     <>
-      <div className="flex justify-between items-center px-40 h-10">
+      <div className="flex justify-between items-center px-40 h-12">
         <div>untitled</div>
         <div className="flex justify-between gap-12">
           <div>el 1</div>
