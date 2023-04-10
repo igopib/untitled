@@ -4,11 +4,12 @@ import { FC } from "react"
 
 // Internal Imports
 import Style from "./Main.module.css"
+import { slide1, slide2, slide3, slide4 } from "@/public/assets/index"
 
 const Main: FC = () => {
   return (
     <>
-      <div className="flex justify-between items-center px-40 h-12">
+      {/* <div className="flex justify-between items-center h-12">
         <div>untitled</div>
         <div className="flex justify-between gap-12">
           <div>el 1</div>
@@ -17,10 +18,47 @@ const Main: FC = () => {
         </div>
         <div>connect</div>
       </div>
-      <div className={Style.card}>Slide 1</div>
-      <div className={Style.card}>Slide 2</div>
-      <div className={Style.card}>Slide 3</div>
-      <div className={Style.card}>Slide 4</div>
+  */}
+      <div className={Style.card}>
+        <Image
+          src={slide1}
+          alt="/"
+          className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
+        ></Image>
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-2xl">
+          content
+        </div>
+      </div>
+      <div className={Style.card}>
+        <Image
+          src={slide2}
+          alt="/"
+          className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
+        ></Image>
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-2xl">
+          content
+        </div>
+      </div>
+      <div className={Style.card}>
+        <Image
+          src={slide3}
+          alt="/"
+          className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
+        ></Image>
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-2xl">
+          content
+        </div>
+      </div>
+      <div className={Style.card}>
+        <Image
+          src={slide4}
+          alt="/"
+          className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
+        ></Image>
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-2xl">
+          content
+        </div>
+      </div>
     </>
   )
 }
