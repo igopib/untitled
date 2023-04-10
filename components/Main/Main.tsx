@@ -8,7 +8,15 @@ import Style from "./Main.module.css"
 const Main: FC = () => {
   return (
     <>
-      <div>Navigation</div>
+      <div className="flex justify-between items-center px-40 h-10">
+        <div>untitled</div>
+        <div className="flex justify-between gap-12">
+          <div>el 1</div>
+          <div>el 2</div>
+          <div>el 3</div>
+        </div>
+        <div>connect</div>
+      </div>
       <div className={Style.card}>Slide 1</div>
       <div className={Style.card}>Slide 2</div>
       <div className={Style.card}>Slide 3</div>
