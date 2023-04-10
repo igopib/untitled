@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-[#000000]  text-white tracking-wide;
+    @apply bg-[#000000] text-white tracking-wide;
   }
 }

@@ -9,7 +9,7 @@ import { slide1, slide2, slide3, slide4 } from "@/public/assets/index"
 const Main: FC = () => {
   return (
     <>
-      {/* <div className="flex justify-between items-center h-12">
+      <div className="fixed top-0 left-0 right-0 z-50 flex justify-between items-center h-12 bg-transparent backdrop-blur-xl">
         <div>untitled</div>
         <div className="flex justify-between gap-12">
           <div>el 1</div>
@@ -18,7 +18,7 @@ const Main: FC = () => {
         </div>
         <div>connect</div>
       </div>
-  */}
+
       <div className={Style.card}>
         <Image
           src={slide1}
