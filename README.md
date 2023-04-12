@@ -1,3 +1,3 @@
-#### Currently Untitled
+# Currently Untitled
 
-Starting with nothing but extinct.
+### Starting with nothing but extinct.
