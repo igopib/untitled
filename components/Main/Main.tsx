@@ -19,7 +19,9 @@ const Main: FC = () => {
           <div>el 2</div>
           <div>el 3</div>
         </div>
-        <div>connect</div>
+        <div className="bg-white hover:bg-white/50 text-black font-bold py-2 px-4 rounded-full transform duration-300 cursor-pointer">
+          connect
+        </div>
       </div>
 
       <div className={Style.card}>
@@ -28,7 +30,7 @@ const Main: FC = () => {
           alt="/"
           className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
         ></Image>
-        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-4xl font-semibold tracking-tighter">
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-6xl font-semibold tracking-tighter">
           still untitled
         </div>
       </div>
@@ -38,7 +40,7 @@ const Main: FC = () => {
           alt="/"
           className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
         ></Image>
-        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-4xl font-semibold tracking-tighter">
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-6xl font-semibold tracking-tighter">
           still untitled
         </div>
       </div>
@@ -48,7 +50,7 @@ const Main: FC = () => {
           alt="/"
           className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
         ></Image>
-        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-4xl font-semibold tracking-tighter">
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-6xl font-semibold tracking-tighter">
           still untitled
         </div>
       </div>
@@ -58,7 +60,7 @@ const Main: FC = () => {
           alt="/"
           className="absolute left-0 top-0 object-cover h-[100%] w-[100%] z-[1] brightness-75 blur-[3px]"
         ></Image>
-        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-4xl font-semibold tracking-tighter">
+        <div className="absolute left-0 top-0 h-[100%] w-[100%] z-[2] flex justify-center items-center text-6xl font-semibold tracking-tighter">
           still untitled
         </div>
       </div>
