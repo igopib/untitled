@@ -20,3 +20,10 @@ Created 2 maps still incomplete. Narrative for the game will be worked on tomorr
 ![alt text](https://github.com/igopib/untitled/blob/main/public/assets/Day1Log1.png?raw=true)
 
 ![alt text](https://github.com/igopib/untitled/blob/main/public/assets/Day1Log2.png?raw=true)
+
+
+### Day 2
+
+Alright, fun day! Created into narrative of the game which I will not share here currently.
+Decided to take the genre into Mystery, not much has been finalized yet but will keep it to minimal
+gameplay but will reward players who will put their time into exploring and learn what really is going on.
