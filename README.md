@@ -31,3 +31,10 @@ gameplay but will reward players who will put their time into exploring and lear
 ![alt text](https://github.com/igopib/untitled/blob/main/public/assets/Day2Log1.png?raw=true)
 
 ![alt text](https://github.com/igopib/untitled/blob/main/public/assets/Day2Log2.png?raw=true)
+
+
+### Day 3
+
+Spent the day looking for better assets and updating the default RMMZ interfact. Still a lot to uncover.
+Added events in the game to make the atmosphere feel more real and adding some dialogues and adding minor
+details that can be uncovered. Will spend more time working on narrative. Sharing screenshots later.
