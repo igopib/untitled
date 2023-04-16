@@ -38,3 +38,8 @@ gameplay but will reward players who will put their time into exploring and lear
 Spent the day looking for better assets and updating the default RMMZ interfact. Still a lot to uncover.
 Added events in the game to make the atmosphere feel more real and adding some dialogues and adding minor
 details that can be uncovered. Will spend more time working on narrative. Sharing screenshots later.
+
+### Day 4
+
+Layered the outside area. Used gimp to layer and then using a plugin to use it in game. Worked on the story and details
+and will share them here.
