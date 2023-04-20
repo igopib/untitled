@@ -11,7 +11,7 @@ const Navbar: FC = () => {
       <div className={Style.vertical}>
         <div className="w-full h-full">
           <Link href="/">
-            <div className="font-semibold tracking-tight text-lg rotate-180 hover:text-white/50 transform duration-300">
+            <div className="font-semibold tracking-tight rotate-180 hover:text-white/50 transform duration-300 text-2xl">
               play
             </div>
           </Link>
@@ -20,7 +20,7 @@ const Navbar: FC = () => {
       <div className={Style.vertical}>
         <div className="w-full">
           <Link href="/">
-            <div className="font-semibold tracking-tight text-lg rotate-180 hover:text-white/50 transform duration-300">
+            <div className="font-semibold tracking-tight rotate-180 hover:text-white/50 transform duration-300 text-2xl">
               credits
             </div>
           </Link>
@@ -29,7 +29,7 @@ const Navbar: FC = () => {
       <div className={Style.vertical}>
         <div className="w-full">
           <Link href="/">
-            <div className="font-semibold tracking-tight text-lg rotate-180 hover:text-white/50 transform duration-300">
+            <div className="font-semibold tracking-tight rotate-180 hover:text-white/50 transform duration-300 text-2xl">
               docs
             </div>
           </Link>
